@@ -1,0 +1,25 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> addToArrayForm(int[] num, int k) {
+        List<Integer> result = new ArrayList<>();
+        
+        int i = num.length - 1;
+        
+        // Process from last digit
+        while (i >= 0 || k > 0) {
+            if (i >= 0) {
+                k += num[i];
+                i--;
+            }
+            
+            result.add(k % 10); // add last digit
+            k = k / 10;         // carry
+        }
+        
+        // reverse result because we added from back
+        Collections.reverse(result);
+        
+        return result;
+    }
+}
