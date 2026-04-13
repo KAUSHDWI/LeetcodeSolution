@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
