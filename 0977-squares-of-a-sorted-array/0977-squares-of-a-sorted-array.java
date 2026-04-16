@@ -1,28 +1,26 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int i =0;
-        int j = nums.length -1 ;
-        int [] result = new int[nums.length];
-        //loop for squaring
-        for(int k=0;k<nums.length;k++){
-            nums[k] = nums[k] * nums[k];
-        }
-        //loop for two pointer 
-        for(int pos=nums.length-1;pos>=0;pos--){
-            if(nums[i]>nums[j]){
-                result[pos] = nums[i];
+        int n = nums.length;
+        int[] res = new int[n];
+
+        int i = 0;
+        int j = n - 1;
+        int k = n - 1; // fill from back
+
+        while (i <= j) {
+            int left = nums[i] * nums[i];
+            int right = nums[j] * nums[j];
+
+            if (left > right) {
+                res[k] = left;
                 i++;
-
-            }
-            else{
-                result[pos] = nums[j];
-
+            } else {
+                res[k] = right;
                 j--;
             }
+            k--;
         }
-        return result;
 
+        return res;
     }
-    
-    
 }
