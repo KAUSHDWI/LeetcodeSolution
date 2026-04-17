@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0141-linked-list-cycle) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -54,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
