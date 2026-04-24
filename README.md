@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
