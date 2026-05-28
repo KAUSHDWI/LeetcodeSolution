@@ -107,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
