@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [0905-sort-array-by-parity](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0905-sort-array-by-parity) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
