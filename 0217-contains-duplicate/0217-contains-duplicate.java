@@ -1,16 +1,15 @@
-import java.util.*;
-
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+    Set<Integer> seen = new HashSet<>();
 
-        for (int num : nums) {
-            if (set.contains(num)) {
-                return true; // duplicate found
-            }
-            set.add(num);
+    for (int num : nums) {
+        if (seen.contains(num)) {
+            return true;   // pehle mil chuka
         }
-
-        return false; // all elements are unique
+        seen.add(num);
     }
+    return false;
 }
+// Time O(n), Space O(n) {
+        
+    }
