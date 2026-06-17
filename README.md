@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
