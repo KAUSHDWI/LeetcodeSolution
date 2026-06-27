@@ -1,32 +1,27 @@
 class Solution {
     public void sortColors(int[] nums) {
+        int l=0;
+        int m =0;
+        int h = nums.length -1;
+        while( m <= h){
+            if(nums[m] ==0){
+                int temp = nums[l];
+                nums[l] = nums[m];
+                nums[m] = temp;
+                m++;
+                l++;
+            }else if(nums[m] == 1){
+                m++;
 
-        int count0 = 0, count1 = 0, count2 = 0;
 
-        // Count frequency
-        for (int num : nums) {
-            if (num == 0)
-                count0++;
-            else if (num == 1)
-                count1++;
-            else
-                count2++;
+            }
+            else{
+                int temp = nums[m];
+                nums[m]= nums[h];
+                nums[h] = temp;
+                h--;
+            }
         }
-
-        // Fill 0s
-        int index = 0;
-        while (count0-- > 0) {
-            nums[index++] = 0;
-        }
-
-        // Fill 1s
-        while (count1-- > 0) {
-            nums[index++] = 1;
-        }
-
-        // Fill 2s
-        while (count2-- > 0) {
-            nums[index++] = 2;
-        }
+        
     }
 }
