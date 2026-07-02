@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Design
