@@ -10,12 +10,10 @@ class Solution {
 
         int[] s1Freq = new int[26];
 
-        // Frequency of s1
         for (int i = 0; i < n; i++) {
             s1Freq[s1.charAt(i) - 'a']++;
         }
 
-        // Check every substring of length n
         for (int i = 0; i <= m - n; i++) {
 
             int[] windowFreq = new int[26];
