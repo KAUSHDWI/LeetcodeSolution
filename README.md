@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
