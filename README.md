@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 ## Union-Find
