@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
