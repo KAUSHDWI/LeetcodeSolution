@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
