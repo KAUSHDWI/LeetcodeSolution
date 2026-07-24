@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
