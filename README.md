@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0202-happy-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
