@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
