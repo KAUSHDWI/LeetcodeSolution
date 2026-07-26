@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
