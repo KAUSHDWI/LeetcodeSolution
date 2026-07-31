@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Function
 |  |
