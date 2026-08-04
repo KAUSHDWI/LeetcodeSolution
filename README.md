@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
