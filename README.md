@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## String
 |  |
