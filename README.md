@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0402-remove-k-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
