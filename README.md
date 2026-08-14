@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
