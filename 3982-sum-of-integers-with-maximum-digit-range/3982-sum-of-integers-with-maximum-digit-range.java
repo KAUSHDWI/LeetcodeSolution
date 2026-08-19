@@ -9,7 +9,7 @@ class Solution {
 
             int temp = num;
             int maxDigit = 0;
-            int minDigit = 9;
+            int minDigit = 7;
 
             while (temp > 0) {
                 int digit = temp % 10;
