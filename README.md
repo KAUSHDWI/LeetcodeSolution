@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
