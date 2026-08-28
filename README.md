@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 ## Union-Find
 |  |
