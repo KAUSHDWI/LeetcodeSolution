@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
 | [1754-largest-merge-of-two-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1754-largest-merge-of-two-strings) |
+| [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0324-wiggle-sort-ii) |
+| [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
