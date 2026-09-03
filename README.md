@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1754-largest-merge-of-two-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Quickselect
 |  |
