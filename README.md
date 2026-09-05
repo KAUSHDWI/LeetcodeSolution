@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Function
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2523-closest-prime-numbers-in-range) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Primality Test
 |  |
 | ------- |
