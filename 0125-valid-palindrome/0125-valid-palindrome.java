@@ -1,29 +1,24 @@
+
 class Solution {
     public boolean isPalindrome(String s) {
-        int left = 0;
-        int right = s.length() - 1;
 
-        while (left < right) {
+        StringBuilder str = new StringBuilder();
 
-            // Skip non-alphanumeric characters from the left
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++;
+        // Create clean string
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            if (Character.isLetterOrDigit(ch)) {
+                str.append(Character.toLowerCase(ch));
             }
-
-            // Skip non-alphanumeric characters from the right
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
-            }
-
-            // Compare characters (case-insensitive)
-            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
-                return false;
-            }
-
-            left++;
-            right--;
         }
 
-        return true;
+        // Reverse the clean string
+        String reverse = str.reverse().toString();
+
+        // Compare
+        return str.toString().equals(reverse);
     }
 }
+
