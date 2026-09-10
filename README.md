@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
