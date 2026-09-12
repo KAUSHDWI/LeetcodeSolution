@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2094-finding-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Newton's Method
