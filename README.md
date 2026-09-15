@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0202-happy-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
