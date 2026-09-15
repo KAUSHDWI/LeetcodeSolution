@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0125-valid-palindrome) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0867-transpose-matrix) |
