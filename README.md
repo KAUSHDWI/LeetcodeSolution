@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0217-contains-duplicate) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0242-valid-anagram) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0324-wiggle-sort-ii) |
 | [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
@@ -491,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
