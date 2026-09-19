@@ -7,16 +7,29 @@ class Solution {
 
 
 // Hashmap
-HashMap<Integer,Integer>map = new HashMap<>();
-for(int num : nums){
-    map.put(num,map.getOrDefault(num,0) +1);
-    if(map.get(num)> nums.length/2){
-        return num;
-    }
-}
-return -1;
+// HashMap<Integer,Integer>map = new HashMap<>();
+// for(int num : nums){
+//     map.put(num,map.getOrDefault(num,0) +1);
+//     if(map.get(num)> nums.length/2){
+//         return num;
+//     }
+// }
+// return -1;
+
+
         //Boyer- Moore Voting Algorithm 
-
-
+        int count = 0;
+        int candi = 0;
+        for(int num : nums){
+            if(count ==0){
+                candi = num;
+            }
+            if(num == candi){
+                count++;
+            }else{
+                count--;
+            }
+        }
+        return candi;
     }
 }
