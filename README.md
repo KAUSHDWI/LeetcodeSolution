@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
+| [1629-slowest-key](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1629-slowest-key) |
 | [1732-find-the-highest-altitude](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0809-expressive-words](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
+| [1629-slowest-key](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1629-slowest-key) |
 | [1754-largest-merge-of-two-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1754-largest-merge-of-two-strings) |
 | [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1781-sum-of-beauty-of-all-substrings) |
