@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0567-permutation-in-string) |
 | [0809-expressive-words](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0917-reverse-only-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1629-slowest-key) |
 | [1754-largest-merge-of-two-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1754-largest-merge-of-two-strings) |
 | [1763-longest-nice-substring](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0402-remove-k-digits) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -533,4 +535,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
