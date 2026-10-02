@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0070-climbing-stairs) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0049-group-anagrams) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0046-permutations) |
 ## Game Theory
 |  |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
