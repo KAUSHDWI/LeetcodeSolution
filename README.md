@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1929-concatenation-of-array) |
