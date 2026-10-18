@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Design
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Newton's Method
 |  |
 | ------- |
