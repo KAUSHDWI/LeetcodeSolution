@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
