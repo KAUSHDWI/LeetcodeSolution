@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1089-duplicate-zeros) |
+| [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2643-row-with-maximum-ones) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
