@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
