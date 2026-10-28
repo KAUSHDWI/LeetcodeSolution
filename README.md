@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1927-sum-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2409-count-days-spent-together) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3794-reverse-string-prefix) |
