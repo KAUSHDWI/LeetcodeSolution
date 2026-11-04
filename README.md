@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2409-count-days-spent-together) |
 | [2523-closest-prime-numbers-in-range](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2523-closest-prime-numbers-in-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0509-fibonacci-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Design
 |  |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
