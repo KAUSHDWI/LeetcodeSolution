@@ -1,47 +1,40 @@
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
-        Arrays.sort(logs, (a, b) -> a[1] - b[1]);
+        int m = queries.length, len = logs.length;
+        int[] res = new int[m];
+        //maybe sort queries? we'll get the times sorted
+        //so we will have a increasing boundry l,r (l = qi-x, r = qi)
+        //sort logs based on time, maintain a map with mp[serverid] = cnt of logs within [l,r]
+        //move l,r, update map, remove from map if cnt = 0
 
-        int m = queries.length;
-        int[][] q = new int[m][2];
+        Arrays.sort(logs, (a, b) -> Integer.compare(a[1], b[1]));
+        Integer[] qid = new Integer[m];
+        for(int i=0; i<m; ++i)qid[i] = i;
+        Arrays.sort(qid, (a, b) -> Integer.compare(queries[a], queries[b]));
+        int[] mp = new int[n+2];
 
-        for (int i = 0; i < m; i++) {
-            q[i][0] = queries[i];
-            q[i][1] = i;
+        int l = 0, r = 0, cnt = 0;
+
+        //now iterate the queries (in sorted order of time)
+        for(int i : qid){
+            int q = queries[i];
+            //now the boundry is [q-x, q]
+            while(r< len && logs[r][1] <= q){
+                //this log is in the boundry, so update the map
+                mp[logs[r][0]] +=1;
+                //if this server is counted for 1st time, then inc cnt
+                if(mp[logs[r][0]] == 1)++cnt;
+                ++r;
+            }
+            while(l<r && logs[l][1] < q-x){
+                mp[logs[l][0]] -= 1;
+                if(mp[logs[l][0]] == 0)--cnt;
+                ++l;
+            }
+            //cnt is active, so inactive is
+            res[i] = n-cnt;
         }
 
-        Arrays.sort(q, (a, b) -> a[0] - b[0]);
-
-        int[] ans = new int[m];
-        int left = 0;
-        int right = 0;
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int[] query : q) {
-            int time = query[0];
-            int index = query[1];
-            int start = time - x;
-
-            while (right < logs.length && logs[right][1] <= time) {
-                int id = logs[right][0];
-                map.put(id, map.getOrDefault(id, 0) + 1);
-                right++;
-            }
-
-            while (left < logs.length && logs[left][1] < start) {
-                int id = logs[left][0];
-                map.put(id, map.get(id) - 1);
-
-                if (map.get(id) == 0) {
-                    map.remove(id);
-                }
-                left++;
-            }
-
-            ans[index] = n - map.size();
-        }
-
-        return ans;
+        return res;
     }
 }
