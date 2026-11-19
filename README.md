@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/KAUSHDWI/LeetcodeSolution/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quickselect
 |  |
 | ------- |
